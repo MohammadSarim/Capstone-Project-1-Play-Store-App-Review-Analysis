@@ -22,7 +22,7 @@
 
 **Report Writing**: Summarize the insights and findings from the analysis and communicate it effectively to the stakeholders.
 
-#**Problem Statement**
+# **Problem Statement**
 
 1. What are the top five earning Category?
 2. Top 5 earnings Apps
@@ -108,23 +108,8 @@ Month added to check the maximum downloads according to the month.
 Total_Earnings to check the highest earning categories and apps in the dataset.
 Size_Interval to check the size distribution of apps.
 
-## **4. Data Vizualization**
 
-* Percentage of free apps = ~92%
-* Percentage of Users using Free apps = 99.9%
-* Most competitive category: Family
-* Category with the highest earnings: Lifestyle
-* Highest earning app:  I am rich
-* Most of the genres having "5" rated app
-* Most of the apps installed in the month: "JULY"
-* Percentage of apps with no age restrictions = ~82%
-* Average ratings of apps in each category lies between 4 to 5
-* The size of the most apps on play store lies in the range of: "0-25" mb's.
-* Most of the reviews happened in the month: "JULY"
-* Helix Jump has the highest number of positive reviews and Angry Birds Classic has the highest number of negative reviews.
-* Overall sentiment count of merged dataset in which Positive sentiment count is 64%, Negative 22% and Neutral 13%.
-
-## **5. Solution to Business Objective**
+## **4. Solution to Business Objective**
 #### What do you suggest the client to achieve Business Objective ? 
 Explain Briefly.
 The solution to business objectives in the Playstore dataset Exploratory Data Analysis (EDA) would depend on the specific goals of the business. However, here are a few common approaches for analyzing Playstore data:
